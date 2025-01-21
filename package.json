@@ -1,0 +1,15 @@
+{
+  "name": "cerbos_auth",
+  "version": "1.0.3",
+  "main": "server.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
